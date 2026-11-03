@@ -32,7 +32,7 @@ function Projects() {
               title="Portfolio"
               description="Mi portfolio personal construido con React, mostrando mis proyectos, habilidades y contacto. Utiliza animaciones y diseño responsive."
               ghLink="https://github.com/MOREXPO/IAMOEX"
-              demoLink="https://iamoex.com"
+              demoLink="https://portfolio.morexpo.dev"
             />
           </Col>
 
@@ -43,7 +43,7 @@ function Projects() {
               title="OpenClaw Automation Platform"
               description="Sistema de automatización con OpenClaw para orquestar despliegues, túneles Cloudflare, monitorización de servicios y publicación de proyectos en múltiples dominios de iamoex.com."
               ghLink="https://github.com/MOREXPO/iamoex-projects-dashboard"
-              demoLink="https://projects.iamoex.com"
+              demoLink=""
             />
           </Col>
 
@@ -120,7 +120,7 @@ function Projects() {
               title="Servidor de Medios con Docker"
               description="Servidor multimedia autohospedado con Docker usando Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, Jellyfin, Jellyseerr, Ombi, Plex y qBittorrent, ideal para organizar contenido personal."
               ghLink="https://github.com/MOREXPO/media-server"
-              demoLink="https://tv.iamoex.com"
+              demoLink=""
             />
           </Col>
 

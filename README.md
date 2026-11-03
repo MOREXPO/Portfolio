@@ -2,7 +2,7 @@
 
 Bienvenido a mi portfolio personal donde muestro mis proyectos, habilidades técnicas, experiencia y currículum.
 
-🔗 [Ver online](https://iamoex.com)
+🔗 [Ver online](https://portfolio.morexpo.dev)
 
 ---
 

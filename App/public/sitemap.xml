@@ -3,25 +3,25 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://iamoex.com/</loc>
+    <loc>https://portfolio.morexpo.dev/</loc>
     <lastmod>2025-05-07</lastmod>
     <priority>1.00</priority>
   </url>
 
   <url>
-    <loc>https://iamoex.com/about</loc>
+    <loc>https://portfolio.morexpo.dev/about</loc>
     <lastmod>2025-05-07</lastmod>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://iamoex.com/project</loc>
+    <loc>https://portfolio.morexpo.dev/project</loc>
     <lastmod>2025-05-07</lastmod>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://iamoex.com/resume</loc>
+    <loc>https://portfolio.morexpo.dev/resume</loc>
     <lastmod>2025-05-07</lastmod>
     <priority>0.70</priority>
   </url>
