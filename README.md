@@ -33,10 +33,10 @@ Este proyecto ha sido desarrollado con las siguientes tecnologías:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/MOREXPO/IAMOEX.git
+git clone https://github.com/MOREXPO/Portfolio.git
 
 # Acceder al directorio
-cd IAMOEX
+cd Portfolio
 
 # Instalar dependencias
 npm install

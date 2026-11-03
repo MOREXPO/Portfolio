@@ -31,7 +31,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               description="Mi portfolio personal construido con React, mostrando mis proyectos, habilidades y contacto. Utiliza animaciones y diseño responsive."
-              ghLink="https://github.com/MOREXPO/IAMOEX"
+              ghLink="https://github.com/MOREXPO/Portfolio"
               demoLink="https://portfolio.morexpo.dev"
             />
           </Col>
