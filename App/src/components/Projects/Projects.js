@@ -42,7 +42,7 @@ function Projects() {
               isBlog={false}
               title="OpenClaw Automation Platform"
               description="Sistema de automatización con OpenClaw para orquestar despliegues, túneles Cloudflare, monitorización de servicios y publicación de proyectos en múltiples dominios de iamoex.com."
-              ghLink="https://github.com/MOREXPO/iamoex-projects-dashboard"
+              ghLink=""
               demoLink=""
             />
           </Col>
