@@ -29,7 +29,7 @@ function Projects() {
             <ProjectCard
               imgPath={portfolio}
               isBlog={false}
-              title="IAMOEX (Portfolio)"
+              title="Portfolio"
               description="Mi portfolio personal construido con React, mostrando mis proyectos, habilidades y contacto. Utiliza animaciones y diseño responsive."
               ghLink="https://github.com/MOREXPO/IAMOEX"
               demoLink="https://iamoex.com"

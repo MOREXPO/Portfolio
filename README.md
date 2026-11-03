@@ -1,4 +1,4 @@
-# 💼 IAMOEX - Portfolio de Iago Moreda Expósito
+# 💼 Portfolio de Iago Moreda Expósito
 
 Bienvenido a mi portfolio personal donde muestro mis proyectos, habilidades técnicas, experiencia y currículum.
 
